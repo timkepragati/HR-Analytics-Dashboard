@@ -1,4 +1,4 @@
-# HR-Analytics-Dashboard
+# [HR-Analytics-Dashboard](https://drive.google.com/file/d/1aPKXCTKr8Y1RjMElmLkemtPqAk0Gwu1P/view?usp=drive_link)
 # Objective
 The objective of this project is to identify the key factors driving employee attrition and provide actionable insights for improving workforce retention in an organization. This dashboard provides insights of the attrition of an organization which helps the HR team for their further analysis.
 
@@ -80,3 +80,5 @@ Which Business Travel has maximum employees ?
 4.**Job Role Affected:** The highest attrition rate, indicating a need for focused retention efforts in this department to reduce turnover.
 
 5.**Attrition Rate by Gender for Different Age Group:** The attrition count among the age group of 26-35 years 116 which is maximum among the other age groups.
+
+
